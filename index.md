@@ -27,4 +27,4 @@ __bans - check past or active bans on a user. Usage, __bans userid
 __bot - check info regarding bot, uptime, version etc. Usage, __bot
 ```
 # How to verify.
-To verify on Caleb's server you need to go to the verification channel and type __verify \[last 2 letters of your name + the two numbers found in the channel topic]
+To verify on Caleb's server you need to go to the verification channel and type __verify \[last 2 letters of your name + the last two numbers found in the channel topic]
