@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Rules of Caleb's Server.
 
-You can use the [editor on GitHub](https://github.com/Hyphenas/hyphenas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# You **MUST** follow these rules and read them through properly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*1)* No racism.
+*2)* No @everyone or @here. You will be muted.
+*3)* No bullying or harrassment. You will be instantly banned.
+*4)* No pornography, gore, lolicon, animal abuse.
+*5)* You **MUST** follow the Discord ToS.
+*6)* If you are under 13, leave now.
+*7)* No spamming.
+*8)* Use channels for their appropriate use. Wrong use of channels will result in being muted from that channel.
 
 ### Markdown
 
