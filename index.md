@@ -6,39 +6,25 @@
 *2)* No @everyone or @here. You will be muted.  
 *3)* No bullying or harrassment. You will be instantly banned.  
 *4)* No pornography, gore, lolicon, animal abuse.  
-*5)* You **MUST** follow the Discord ToS.  
+*5)* You **MUST** follow the [Discord ToS.](https://discordapp.com/terms)  
 *6)* If you are under 13, leave now.  
 *7)* No spamming.  
 *8)* Use channels for their appropriate use. Wrong use of channels will result in being muted from that channel.  
+*9)* Do not talk about illegal stuff.  
+*10)* Do not talk about cheats, pirating, hacking, exploiting etc.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Helper bot commands.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+__help - sends a link to this page. Usage, __help  
+__verify - more information about this below.  
+__whois - gets information about a user. Usage, __whois @someone#0001  
+__server - gets information about the server. Usage, __server  
+__warns - check warnings on a user. Usage, __warns @someone#0001  
+__mutes - check active mutes or past mutes on a user. Usage, __mutes @someone#0001  
+__kicks - check past kicks on a user. Usage, __kicks @someone#0001  
+__bans - check past or active bans on a user. Usage, __bans userid  
+__bot - check info regarding bot, uptime, version etc. Usage, __bot
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hyphenas/hyphenas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# How to verify.
+To verify on Caleb's server you need to go to the verification channel and type __verify \[last 2 letters of your name + the two numbers found in the channel topic]
